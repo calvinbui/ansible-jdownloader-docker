@@ -1,6 +1,8 @@
 # Ansible JDownloader
 
-JDownloader in Docker
+JDownloader in Docker.
+
+Currently using [jlesage/jdownloader-2](https://github.com/jlesage/docker-jdownloader-2). See their [README](https://github.com/jlesage/docker-jdownloader-2/blob/master/README.md) for environmental variables.
 
 ##  Requirements
 

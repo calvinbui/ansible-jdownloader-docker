@@ -9,7 +9,7 @@ jdownloader_ports:
 jdownloader_config_directory: "/tmp/jdownloader"
 jdownloader_download_directory: "/tmp/downloads"
 jdownloader_environment_variables:
-  TZ: Sydney/Australia
+  TZ: Australia/Sydney
   USER_ID: "1000"
   GROUP_ID: "1000"
   DISPLAY_WIDTH: "1920"

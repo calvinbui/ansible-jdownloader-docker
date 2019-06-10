@@ -16,7 +16,7 @@
       published_ports: "{{ jdownloader_ports }}"
       volumes:
         - "{{ jdownloader_config_directory }}:/config"
-        - "{{ jdownloader_download_directory }}:/downloads"
+        - "{{ jdownloader_download_directory }}:/output"
       env: "{{ jdownloader_environment_variables }}"
 
 - name: Create JDownloader container

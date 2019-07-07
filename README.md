@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.com/calvinbui/ansible-jdownloader-docker.svg?branch=master)](https://travis-ci.com/calvinbui/ansible-jdownloader-docker)
+![GitHub release](https://img.shields.io/github/release/calvinbui/ansible-jdownloader-docker.svg)
+![Ansible Quality Score](https://img.shields.io/ansible/quality/40581.svg)
+![Ansible Role](https://img.shields.io/ansible/role/d/40581.svg)
+
 # Ansible JDownloader
 
 JDownloader in Docker.
